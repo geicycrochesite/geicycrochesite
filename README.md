@@ -1,77 +1,59 @@
-# 🧶 Geicy Crochê | Peças Artesanais em Crochê Feitas à Mão
+# 🌐 geicycroche.com.br
 
-Bem-vindo ao meu espaço 💛
+## 🧶 Sobre a Geicy Crochê
 
-Sou a criadora da **Geicy Crochê**, uma loja especializada em peças artesanais em crochê, feitas manualmente com dedicação, cuidado e atenção aos detalhes.
+A **Geicy Crochê** é uma marca artesanal dedicada à criação de peças em crochê feitas à mão, com charme, cuidado e personalidade. Cada produto é produzido para unir beleza, conforto e exclusividade, valorizando o trabalho artesanal e oferecendo opções especiais para quem busca moda em crochê, acessórios exclusivos e itens decorativos para casa.
 
-Cada criação é única e carrega um toque especial de feito à mão.
+Com uma proposta criativa e acolhedora, a marca transforma o crochê em peças que fazem parte do dia a dia, do estilo pessoal e da decoração de ambientes. A Geicy Crochê atende pessoas que valorizam produtos artesanais, acabamentos delicados, peças personalizadas e a autenticidade de um trabalho manual feito com dedicação.
 
----
+## ✨ Produtos em crochê
 
-## 🛍️ Sobre a Geicy Crochê
-
-A **Geicy Crochê** é uma loja de artesanato focada na produção de peças em crochê de alta qualidade, ideais para uso pessoal, decoração ou presentes especiais.
-
-✨ Produção 100% artesanal
-🧵 Peças feitas à mão com acabamento detalhado
-🎁 Produtos exclusivos e personalizados
-
----
-
-## 🌐 Loja Online
-
-👉 Visite minha loja oficial:
-🔗 **https://seusite.com**
-
-Explore todos os produtos e novidades diretamente no site.
-
----
-
-## 🧶 Produtos em Crochê
-
-Na loja você encontra uma variedade de peças artesanais:
+Na loja, o cliente encontra uma variedade de peças artesanais pensadas para diferentes estilos, ocasiões e necessidades.
 
 ### 👗 Roupas em crochê
 
-* Blusas
-* Vestidos
-* Tops
-* Moda personalizada
+- Blusas em crochê
+- Vestidos em crochê
+- Tops em crochê
+- Moda personalizada em crochê
 
 ### 👜 Acessórios e bolsas
 
-* Bolsas em crochê
-* Mochilas artesanais
-* Carteiras
-* Acessórios exclusivos
+- Bolsas em crochê
+- Mochilas artesanais
+- Carteiras em crochê
+- Acessórios exclusivos
 
 ### 🏡 Itens para casa
 
-* Jogo de banheiro em crochê
-* Passadeiras
-* Tapetes artesanais
-* Peças decorativas
+- Jogo de banheiro em crochê
+- Passadeiras artesanais
+- Tapetes artesanais
+- Peças decorativas em crochê
 
----
+## 💖 Diferenciais da marca
 
-## 💛 Propósito
+A Geicy Crochê se destaca por oferecer peças artesanais que combinam beleza, funcionalidade e identidade própria.
 
-Meu trabalho transforma linhas em peças que unem beleza, conforto e personalidade.
+- 🧵 Produção feita à mão com atenção aos detalhes
+- 🎨 Peças criativas, delicadas e exclusivas
+- 👚 Moda artesanal para quem busca originalidade
+- 🏠 Decoração em crochê para deixar os ambientes mais aconchegantes
+- 🎁 Produtos ideais para uso próprio, presentes e encomendas especiais
 
-Acredito no valor do artesanal e na importância de oferecer produtos feitos com carinho, que tragam aconchego e identidade para cada cliente.
+## 🎯 O objetivo do site é
 
----
+- apresentar a marca
+- mostrar os produtos artesanais
+- facilitar pedidos online
+- melhorar a presença da marca nas buscas do Google
+- valorizar o trabalho artesanal
 
-## 🔍 SEO | Palavras-chave
+## 🗂️ O site possui categorias como
 
-crochê artesanal, loja de crochê, roupas em crochê, bolsas de crochê, acessórios em crochê, itens para casa em crochê, jogo de banheiro em crochê, passadeiras artesanais, tapetes de crochê, crochê feito à mão, artesanato brasileiro, loja de crochê online
-
----
-
-## 📌 Sobre este perfil
-
-Este repositório é utilizado como apresentação da marca **Geicy Crochê** no GitHub, ajudando a fortalecer sua presença online e melhorar a indexação no Google.
-
----
-
-💬 Obrigada por valorizar o trabalho artesanal!
+- Roupas em crochê
+- Bolsas artesanais
+- Mochilas em crochê
+- Tapetes artesanais
+- Jogo de banheiro em crochê
+- Peças decorativas artesanais
